@@ -359,6 +359,7 @@ footer.entry-meta {
 }
 .entry-content img {
   width: 100%;
+  height: auto;
 }
 .featured-thumbnails {
   display: inline-block;
